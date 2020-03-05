@@ -1,0 +1,7 @@
+python-pptx 
+docx2txt 
+slate3k 
+scikit-learn 
+tqdm 
+pandas
+nltk
