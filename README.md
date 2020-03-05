@@ -3,7 +3,7 @@ AI Challenge Problem - Intelligent Document Finder
 
 Problem Statement
 -
-      Intelligent Document Finder tool that can provide easy and intelligent searches among the document files. The required document type includes presentations, pdf, doc and txt files. The user will enter a few queries in the search page of the tool to look for the most relevant documents.
+Intelligent Document Finder tool that can provide easy and intelligent searches among the document files. The required document type includes presentations, pdf, doc and txt files. The user will enter a few queries in the search page of the tool to look for the most relevant documents.
 
 
 Technique Used
