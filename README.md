@@ -70,8 +70,10 @@ Search with Tool
   Wait to grab the file
   Once finished we can see the file path in Files Found box
 Note : Search only works if it should atleast train for one time with the correct path.
-Check the Demo.mp4 video in the folder.
 
+Check the below demo video link
+-
+https://drive.google.com/open?id=1F2XTplUAa4JMqcmb_8qTs0UgPqllgXUk
 
 Achievements
 -
