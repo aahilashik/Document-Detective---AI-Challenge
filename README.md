@@ -2,17 +2,19 @@
 AI Challenge Problem - Intelligent Document Finder
 
 Problem Statement
+-
       Intelligent Document Finder tool that can provide easy and intelligent searches among the document files. The required document type includes presentations, pdf, doc and txt files. The user will enter a few queries in the search page of the tool to look for the most relevant documents.
 
 
 Technique Used
+-
       Natural Language Processing [NLP] Techniques.
       Machine Learning [ML] Algorithm - K-means Clustering.  
       Programming Language - Python
 
 
 Idea behind the Tool
-  
+-
       Train - First detect all the files with required formats.  
       For each file format, read all the data and text elements of files and preprocessing it with NLP techniques and 
       train them in ML Clustering Model with a certain number of classes. 
@@ -24,6 +26,7 @@ Idea behind the Tool
 
 
 Components
+-
       In Search Tab, 
           Contents of File or Words in Files - Type some words related to the file to be searched
 
@@ -50,7 +53,7 @@ Components
 
 
 Procedure
-
+-
       Open the Document_Detector.pyc File with Python
                         (or) 
       In CMD, type python Document_Detector.pyc of the file located path
@@ -76,6 +79,7 @@ Procedure
 
 
 Achievements
+-
       Provide faster search of documents.
       Search with non consecutive words of the document.
       Flexible with document formats.
